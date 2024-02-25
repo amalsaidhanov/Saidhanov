@@ -71,7 +71,12 @@
 </div> 
 
 <br/>
-<br/>  
+<br/> 
+
+### 💻 Codewars:
+![codewars](https://www.codewars.com/users/saidhanov/badges/large)
+
+</br>  
 
 <div align="left">
 <a href="https://github.com/" target="_blank" >

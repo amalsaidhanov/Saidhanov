@@ -1,5 +1,5 @@
 ### 👋 Hi, Every one! u can call me just Saidhanov  
-
+<table><tr><td valign="top" width="33%">
 
 
 - 🔭 I’m currently working on [CRMCapita](https://github.com/amalsaidhanov/Angular-Spring)  
@@ -58,7 +58,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/amalsaidhanov" target="_blank">
+<a href="https://github.com/amalsaidhanov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="50" />
 </a>  
 </div>  
@@ -71,12 +71,19 @@
 </div> 
 
 <br/>
-<br/> 
 
-### 💻 Codewars:
+
+<br/>  
+
+## 💻 Codewars:
 ![codewars](https://www.codewars.com/users/saidhanov/badges/large)
 
-</br>  
+<br/>
+
+
+
+
+
 
 <div align="left">
 <a href="https://github.com/" target="_blank" >

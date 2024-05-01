@@ -1,5 +1,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=amalsaidhanov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 👋 Hi, Every one! u can call me just Saidhanov  
 <table><tr><td valign="top" width="33%">  
@@ -10,10 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=amalsaidhanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amalsaidhanov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalsaidhanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=amalsaidhanov&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <br/>  
 
@@ -51,3 +48,5 @@
 
 
 </div>
+
+

@@ -25,7 +25,10 @@
 ## 💻 Codewars:
 ![codewars](https://www.codewars.com/users/saidhanov/badges/large)
 
+## 🏆 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/saidhanov?theme=dark&font=source_code_pro)
 <br/>
+
 
 
 
